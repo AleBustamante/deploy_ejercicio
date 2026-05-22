@@ -20,7 +20,7 @@ export default function PrivateNavbar() {
       {" | "}
       <Link to="/perfil">Perfil</Link>
       {" | "}
-      <Link to="/configuracion">Configuracion</Link>
+      <Link to="/configuracion">Configuración</Link>
       {" | "}
       <button onClick={handleLogout}>Logout</button>
       <hr />

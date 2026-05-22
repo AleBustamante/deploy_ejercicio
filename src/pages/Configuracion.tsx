@@ -1,7 +1,7 @@
 export default function Configuracion() {
   return (
     <div>
-      <h1>Configuracion</h1>
+      <h1>Configuración</h1>
       <p>Página protegida</p>
     </div>
   );
